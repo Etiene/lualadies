@@ -1,6 +1,7 @@
 
 <h1>Welcome to Lua Ladies!</h1>
 
+<img src="pub/lua.png" align="right" height="300" style="padding: 30px"/>
 <p>
 	LuaLadies is a user group focused on mentoring and helping more women participating in the Lua community. It also aims to give more visibility to female developers so they can connect easier and organize meetups.
 </p>
