@@ -11,5 +11,5 @@
 	<a href="https://groups.google.com/forum/#!forum/lua-ladies">https://groups.google.com/forum/#!forum/lua-ladies</a>
 </p>
 <p>
-	Women in Lua community, no matter your degree of expertise, you are invited to join in so we can connect and help each other!
+	Women in Lua community or women aspiring to learn Lua, no matter your degree of expertise, you are invited to join in so we can connect and help each other!
 </p>
